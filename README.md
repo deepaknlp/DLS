@@ -1,5 +1,5 @@
 # Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features
-This repository contains the implementations and experiments reported  in our paper
+This repository contains the implementations and experiments reported in our paper.
 
 [Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features](https://arxiv.org/pdf/xxxx.xxxxx.pdf)
 
