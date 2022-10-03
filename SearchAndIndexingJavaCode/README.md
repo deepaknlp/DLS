@@ -7,7 +7,7 @@
 * Create `jar` file using `jar cvf hiD.jar -C hiD/ .`
 
 ## Data Preparation
-* Download the OpenI image features from our [BioNLP server](https://bionlp.nlm.nih.gov/ImageCLEF2011/Features.tar.gz), unzip the file. The zip file contains the image features of OpenI datasets.
+* Download the OpenI image features from our [BioNLP server](https://bionlp.nlm.nih.gov/features/openi/). The directory contains the image features of OpenI datasets.
 * Place the `train.txt` and `test.text` feature files from the respective pretrained image model in the `Sources` directory.
 
 ## Running the code
