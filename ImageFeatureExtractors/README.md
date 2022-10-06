@@ -1,5 +1,5 @@
 # Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features
-These are the experiments reported for ImageCLEF2011 dataset in our paper [Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features](https://arxiv.org/pdf/xxxx.yyyy.pdf)
+These are the experiments reported for ImageCLEF2011 dataset in our paper [Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features](https://arxiv.org/abs/2210.02401)
 
 
 Please install [Anaconda](https://www.anaconda.com/distribution/) to create a conda environment as follow:
